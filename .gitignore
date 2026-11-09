@@ -8,3 +8,4 @@
 *.tmp.*
 Setup.ahk
 !Setup*.exe
+external/
